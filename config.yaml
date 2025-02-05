@@ -1,0 +1,7 @@
+path: C:/Users/prate/PycharmProjects/yolo/toll_excemption/data
+train: images/train
+val: images/train
+
+
+names:
+  0: camel
